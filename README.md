@@ -1,5 +1,5 @@
 # ProPresenter-s_Chinese_Bible_fixup
-ProPresenter 中文圣经修正版
+ProPresenter 中文圣经修正版  
 **由于在PROPRESENTER 免费的中文圣经版本有很多问题，所以才做了这个。**  
 本安装包主要修复如下问题：  
 文字错误  
