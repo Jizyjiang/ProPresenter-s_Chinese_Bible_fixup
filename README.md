@@ -11,10 +11,10 @@ macOS：ProPresenter 6.5.3/7
 windows:暂未测试
 
 # 所用字体：
-STxinwei
+[STxinwei](Font/STXINWEI.TTF)
 
 # 支持  
-你的反馈与支持是我做这件事情的巨大动力。
+你的[反馈](https://github.com/Jizyjiang/ProPresenter-s_Chinese_Bible_fixup/issues)与支持是我做这件事情的巨大动力。
 
 
 
