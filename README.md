@@ -17,4 +17,7 @@ windows:暂未测试
 你的[反馈](https://github.com/Jizyjiang/ProPresenter-s_Chinese_Bible_fixup/issues)与支持是我做这件事情的巨大动力。
 
 
-
+# TODO  
+macOS安装包  
+win安装包  
+win测试  
