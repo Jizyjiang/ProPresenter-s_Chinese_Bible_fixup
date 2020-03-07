@@ -4,7 +4,7 @@ ProPresenter 中文圣经修正版
 本安装包主要修复如下问题：  
 文字错误  
 经文错误  
-
+同时，我期待你给我的[反馈](https://github.com/Jizyjiang/ProPresenter-s_Chinese_Bible_fixup/issues)。
 
 # 支持版本：
 macOS：ProPresenter 6.5.3/7  
